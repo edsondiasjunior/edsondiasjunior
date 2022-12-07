@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Edson Junior ✋
 
-![Edson Junor GitHub stats](https://github-readme-stats.vercel.app/api?username=edsondiasjunior&show_icons=true&theme=dark)
+![Edson Junor GitHub stats](https://github-readme-stats.vercel.app/api?username=edsondiasjunior&show_icons=true&theme=tokyonight)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imjuniordesigner)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsondiasjunior/)
